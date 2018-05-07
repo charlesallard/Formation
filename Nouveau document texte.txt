@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 ihksjhrkjrgfg
+=======
+Fichier de ma branche master:
+
+Ceci est n fichier 
+plrlgp^'"ltp"^l'reùzlrmr
+
+zjhgehefgjhezzfgejh
+
+kjlfrkljf
+>>>>>>> master
